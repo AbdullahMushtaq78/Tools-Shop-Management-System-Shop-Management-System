@@ -1,0 +1,33 @@
+HELLO USER!
+WELCOME TO THE TOOLS SHOP MANAGEMENT SYSTEM... 
+This is the Description File for you to give basic understanding of this program.
+So, this program is designed/build to manage a Tools Shop.
+Fist of All let me clear that this program only designed to facilitate the management side of an organization/shop not the customer.
+The Menu should look like this:
+ =============================================================
+| PLEASE ENTER THE OPTION TO SELECT:                          |
+| [ A ] To Add New Tool.                                      |
+| [ U ] To Update Tool Inventory.                             |
+| [ P ] To Print all Tools.                                   |
+| [ D ] To Delete a Tool.                                     |
+| [ S ] To Search for tools.                                  |
+| [ Z ] To Add sold tools to maintain your sales file.        |
+| [ R ] To Print all Read me First Instructions.              |
+| [ E ] To Add extra records in your inventory file.          |
+| [ X ] To Exit the program.                                  |
+ =============================================================
+From this menu, you can perform any task you want by typing the respective character and then press the Enter key. 
+Options Available:
+[ A ], you can use this function to add new tools in the inventory.
+[ U ], you can use this function to update the information like Quantity and Price about any tool.
+[ P ], this function is used to print all the tools available in your inventory.
+[ D ], by feature can be used to delete the record of any tool if it is present in the inventory.
+[ S ], by calling this feature, you can type any term and then press enter key to find any of the relevent reocrd present in your inventory. 
+[ Z ], this feature is designed in a way that, whenever you sell any tool to customers you will need to call this function and then you can use this function to maintain your Sales file.
+       The Sales file is primarily focused on the keeping the track on the sales. Whenever you call this function this function will ask for the ID of the tool, if it is present in your inventory,
+       it will further ask some of the details to enter. After entering these, your Sales file will be updated.
+[ R ], this is the last option to open this Description/ReadMeFirst text file.
+[ E ], This function wil help the user to increase the number of records in Inventory file to be able to add more tools if necessary.
+[ X ], you can use this function to Exit from this program.
+Please note that, Every tool should be assigned with unique ID number. Whenever you asked to enter the id of tool it is recommended that, first taks a look at the inventory and then enter the respective id in order to
+stay away from the errors.
