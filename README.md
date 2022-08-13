@@ -1,15 +1,15 @@
 # -Tools-Shop-Management-System / Shop-Management-System (C++)
-This is a fundamental Tools Shop Management system with the multiple features required for many management systems. <br />
-This is the final project for my Computer Fundamentals and Programming course. <br />
-This is the fundamental implementation of this type of project, but as it was the first programming course, it makes sense.<br />
-I was assigned to make a Tool shop management system, where the primary concern was to do a project to help facilitate the shop's management side. It has some of the most common but still handy features. <br />
-The basic idea for this project is to create and handle two .txt files for sales and products/tools in the shop.<br />
-The first file is the Products file. In this file, we have a few attributes about the product like Id, Name, Quantity, and Price. Each product has its unique id.<br />
-The second file is the Sales file. In this file, admins can update the sales file with the newest items sold to customers. Each entry in that file will have the product, sold quantity, price, date, and time. The admin can see essential sale insights, like total sale and highest sole item, through this file. And after each entry in that file, the products file will also be updated.<br />
-There are two modes in this program, Admin and User mode. <br />
-In Admin mode, all of the features are accessible, and the sales file is available for making any sales updates.<br />
-Users are only allowed to perform some of the tasks as offered by the design of this program.<br />
-There's a login system that can help to log in users into the program. By typing Account and password, the program will automatically check whether an admin logged in or a user.<br />
+- This is a fundamental Tools Shop Management system with the multiple features required for many management systems. <br />
+- This is the final project for my Computer Fundamentals and Programming course. <br />
+- This is the fundamental implementation of this type of project, but as it was the first programming course, it makes sense.<br />
+- I was assigned to make a Tool shop management system, where the primary concern was to do a project to help facilitate the shop's management side. It has some of the most common but still handy features. <br />
+- The basic idea for this project is to create and handle two .txt files for sales and products/tools in the shop.<br />
+- The first file is the Products file. In this file, we have a few attributes about the product like Id, Name, Quantity, and Price. Each product has its unique id.<br />
+- The second file is the Sales file. In this file, admins can update the sales file with the newest items sold to customers. Each entry in that file will have the -product, sold quantity, price, date, and time. The admin can see essential sale insights, like total sale and highest sole item, through this file. And after each entry in that file, the products file will also be updated.<br />
+- There are two modes in this program, Admin and User mode. <br />
+- In Admin mode, all of the features are accessible, and the sales file is available for making any sales updates.<br />
+- Users are only allowed to perform some of the tasks as offered by the design of this program.<br />
+- There's a login system that can help to log in users into the program. By typing Account and password, the program will automatically check whether an admin logged in or a user.<br />
 ## -Following is the Menu of features:<br />
 <br />
  =============================================================   <br />
